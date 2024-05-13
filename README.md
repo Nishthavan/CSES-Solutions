@@ -1,2 +1,7 @@
-# CSES-Solutions
-Trying to Solve CSES Problem set in C++ 
+# CSES Solutions
+
+Trying to solve the [CSES Problem Set](https://cses.fi/problemset/) in C++ by Nishthavan.
+
+| Section          | Number Solved |
+|-----------------------|:-------------:|
+| Introductory Problems |     0/19     |
