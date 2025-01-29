@@ -1,2 +1,2 @@
 # CSES-Solutions
-Solving CSES Problem Set (Getting Better)
+Solving CSES Problem Set (Trying to Get Better :))
